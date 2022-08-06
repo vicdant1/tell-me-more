@@ -1,6 +1,18 @@
 .footerContainer
 {
-  background-color: #eeeeee;
+  background-color: #0d6efd;
+  color: #FFF;
   padding: 1rem;
   min-height: 200px;
+}
+
+.footerContainer a {
+  color: #FFF;
+  transition: .4s;
+}
+
+.footerContainer a:hover {
+  color: #2e2e2e;
+  transition: .4s;
+
 }

@@ -15,7 +15,7 @@ const Home: NextPage = () => {
           <div className="row">
             <div className="col-md-6">
               <h4 className='display-5'>Precisamos de você...</h4>
-              <p>Todo semestre é a mesma coisa, ficamos perdidos e recorremos às pessoas do grupo de Whatsapp. As vezes funciona, mas geralmente é um fuzuê gigantesco. O Tell me more chegou para acabar com isso.</p>
+              <p>Todo semestre é a mesma coisa, ficamos perdidos e recorremos às pessoas do grupo de Whatsapp. As vezes funciona, mas geralmente é um fuzuê gigantesco. O <b>Tell Me More</b> chegou para acabar com isso.</p>
               
               <div className='mt-3'>
                 <figure className="text-center">
