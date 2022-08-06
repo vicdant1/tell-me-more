@@ -5,8 +5,8 @@ const Sobre = () => {
 
     <div className="container mt-5">
       <div className="row">
+        <h1 className="display-5 text-center">É bom tê-lo por aqui ¯\_(ツ)_/¯</h1>
         <div className="col-md-6">
-          <h1 className="display-5 text-center">É bom tê-lo por aqui ¯\_(ツ)_/¯</h1>
           <h4 className='mt-3'>Olá, gostaria de te conhecer</h4>
           <p>Primeiramente, seja bem vindo ao Tell Me More. Meu nome é João Victor Dantas, mas pode me chamar de JV. Hoje compartilho com a maioria dos que estão acessando essa página o triste status de aluno. Para guiar nossas escolhas, dada tamanha ineficiência da coordenação de curso do BTI, decidi criar essa página. Conto com a ajuda de vocês para que possamos criar uma comunidade cada vez mais forte. Deixo abaixo quatro frases que julgo importantes para o conhecimento de vocês, cedo ou tarde vocês as verão refletidas em suas vidas, seja pessoal ou acadêmica. Que a força esteja com vocês.</p>
           <h4>Sapere aude</h4>
